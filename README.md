@@ -8,6 +8,10 @@ While the Scheduler is designed to send a number of similar requests to a single
 the Forwarder is designed to execute only two jobs (get, then
 forward). 
 
+## 
+Instalation: 
+run ./init.sh as sudo 
+
 ## Jobs 
 Essentially both the Scheduler and the Forwarder work by executing so called
 "jobs". What is a job? A job is merely a json, storing url, (HTTP-)verb and
