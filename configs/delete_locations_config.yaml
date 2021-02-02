@@ -1,8 +1,0 @@
-defaults:
-    url: "http://127.0.0.1:9680/api/assets/location/{0}"
-    verb: "delete"
-
-jobs:
-    - url_params: ["35a0758b-cc98-40bd-a520-87168b00ff79"]
-    - url_params: ["c65a19ed-ec61-4351-8416-a6ef4920728d"]
-    - url_params: ["7e906770-09f5-4cc5-be7f-791c1127bf13"]

@@ -1,4 +1,5 @@
 #!/bin/bash
+path_to_configs=$(/home/fux/Documents/programming/postwoman/configs)
 path_to_configs=$(/home/fwork/Documents/programming/postwoman/configs)
 path_to_configs=$(/home/fwork/Documents/programming/postwoman/configs)
 

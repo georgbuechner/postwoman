@@ -1,0 +1,6 @@
+defaults:
+  url: "http://localhost:4848/api/v2/search?q={}"
+  verb: "get"
+
+jobs:
+  - url_params: ["hund"]

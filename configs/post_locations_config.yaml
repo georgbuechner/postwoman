@@ -1,7 +1,0 @@
-defaults:
-    url: "http://127.0.0.1:9680/api/assets/location"
-    verb: "post"
-    body: '{{"latitude":{0}, "longitude":{1}, "city":"{2}"}}'
-
-jobs:
-    - body_params: [60.5, 60.6, "Gladbach"]
