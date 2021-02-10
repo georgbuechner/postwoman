@@ -1,5 +1,5 @@
 defaults:
-    url: "http://localhost:4848/api/v2/search?q={}"
+    url: "http://kava-i.de:4848/api/v2/search?q={}"
     verb: "get"
 
 jobs:
@@ -10,3 +10,8 @@ jobs:
     - url_params: ["hünd  "]
     - url_params: ["ändern  "]
     - url_params: ["ändern  +der"]
+    - url: "http://kava-i.de:4848/api/v2/search?q={}"
+    - url: "http://kava-i.de:4848/api/v2/search?{}"
+      verb: "get"
+    - url: "http://kava-i.de:4848/api/v2/search"
+      verb: "get"

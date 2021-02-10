@@ -1,0 +1,164 @@
+[
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zwitschernden",
+            "zwitschernde",
+            "zwitschern",
+            "zwischenzahne",
+            "zwischensubstanz",
+            "zwischenstehend",
+            "zwischenschenkelhaut",
+            "zwischenraumen",
+            "zwischenraume",
+            "zwischenraum"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "zweihufig",
+            "zusammenziehungen",
+            "zusammenziehung",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "zusammenziehungen",
+            "zusammenziehung",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde",
+            "windhund"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde",
+            "windhund",
+            "wachtelhundes",
+            "wachtelhunde"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/author?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "wilhelm",
+            "ullrich",
+            "troschel",
+            "steinbrecher",
+            "smith",
+            "schmidt",
+            "roscher",
+            "mannheimer verein f\u00fcr naturkunde",
+            "lichtenberg",
+            "brehm"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/author?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "huth",
+            "hurn",
+            "schutting",
+            "schuster",
+            "schulz",
+            "schul",
+            "schubert",
+            "mchugh",
+            "hunter",
+            "chaudhuri"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/author?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "hunter",
+            "hunziker",
+            "thunecke",
+            "olson hunt",
+            "mavhunga",
+            "mackenthun",
+            "internationales forschungszentrum kulturwissenschaften",
+            "hunderich",
+            "forschungsschwerpunkt \"tier - mensch-gesellschaft\""
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/author?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "hunderich"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/all?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/all?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/all?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/all?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    }
+]

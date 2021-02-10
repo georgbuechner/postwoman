@@ -1,0 +1,522 @@
+[
+    {
+        "url": "http://localhost:4848/api/v2/search?q=Himmelsstriche",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 1,
+            "time": 1440598
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=h\u00fcnd",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Drews, J&#xF6;rg: Der Mensch ist dem Menschen ein Hund: Tiermetaphern und tierische Metaphern bei Ernst Jandl. In: Ernst Jandl. - Udine&#x202F;: Forum, 1997. - 169 S. 1997. S. 153/164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Drews, 1997<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XC52UXJK"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hager, Maren: Wie die Literatur auf den Hund kommt: zur Praxis der Motivforschung. Aachen 2007.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Hager, 2007<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "VRQRHZ6E"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Brednich, Rolf Wilhelm: Der Edelmann als Hund: eine Sensationsmeldung des 17. Jahrhunderts und ihr Weg durch die Medien der Zeit. In: Fabula. - Berlin&#x202F;; New York&#x202F;: de Gruyter, 1957-. - ISSN 0014-6242 26 (1985). S. 29/57.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Brednich, 1985<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UXXVHG69"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wild, Reiner: &#x201E;Der Hund seiner Zeit&#x201C;: zu Elias Canettis Selbstverst&#xE4;ndnis als Dichter. In: Sprachkunst. - Wien&#x202F;: Verl. der &#xD6;sterreichischen Akademie der Wissenschaften, 1970-. - ISSN 0038-8483 18 (1987). S. 73/92.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wild, 1987<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UVC8GC86"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Moekel, Paula: Mein Hund Rolf. Ein rechnender und buchstabierendener Airedale- Terrier. 1919.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Moekel, 1919<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UMQSHGKB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Paganini, Claudia: Subjekt oder Objekt? Der Hund im TV-Abendprogramm. Hrsg. v. Petra Mayr. /Tiere als Subjekte (2020).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2020<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UB4NFT4L"
+                }
+            ],
+            "max_results": 81,
+            "time": 12741955
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=  h\u00fcnd",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Drews, J&#xF6;rg: Der Mensch ist dem Menschen ein Hund: Tiermetaphern und tierische Metaphern bei Ernst Jandl. In: Ernst Jandl. - Udine&#x202F;: Forum, 1997. - 169 S. 1997. S. 153/164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Drews, 1997<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XC52UXJK"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hager, Maren: Wie die Literatur auf den Hund kommt: zur Praxis der Motivforschung. Aachen 2007.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Hager, 2007<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "VRQRHZ6E"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Brednich, Rolf Wilhelm: Der Edelmann als Hund: eine Sensationsmeldung des 17. Jahrhunderts und ihr Weg durch die Medien der Zeit. In: Fabula. - Berlin&#x202F;; New York&#x202F;: de Gruyter, 1957-. - ISSN 0014-6242 26 (1985). S. 29/57.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Brednich, 1985<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UXXVHG69"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wild, Reiner: &#x201E;Der Hund seiner Zeit&#x201C;: zu Elias Canettis Selbstverst&#xE4;ndnis als Dichter. In: Sprachkunst. - Wien&#x202F;: Verl. der &#xD6;sterreichischen Akademie der Wissenschaften, 1970-. - ISSN 0038-8483 18 (1987). S. 73/92.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wild, 1987<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UVC8GC86"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Moekel, Paula: Mein Hund Rolf. Ein rechnender und buchstabierendener Airedale- Terrier. 1919.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Moekel, 1919<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UMQSHGKB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Paganini, Claudia: Subjekt oder Objekt? Der Hund im TV-Abendprogramm. Hrsg. v. Petra Mayr. /Tiere als Subjekte (2020).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2020<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UB4NFT4L"
+                }
+            ],
+            "max_results": 81,
+            "time": 15112980
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=  h\u00fcnd  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Drews, J&#xF6;rg: Der Mensch ist dem Menschen ein Hund: Tiermetaphern und tierische Metaphern bei Ernst Jandl. In: Ernst Jandl. - Udine&#x202F;: Forum, 1997. - 169 S. 1997. S. 153/164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Drews, 1997<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XC52UXJK"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hager, Maren: Wie die Literatur auf den Hund kommt: zur Praxis der Motivforschung. Aachen 2007.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Hager, 2007<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "VRQRHZ6E"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Brednich, Rolf Wilhelm: Der Edelmann als Hund: eine Sensationsmeldung des 17. Jahrhunderts und ihr Weg durch die Medien der Zeit. In: Fabula. - Berlin&#x202F;; New York&#x202F;: de Gruyter, 1957-. - ISSN 0014-6242 26 (1985). S. 29/57.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Brednich, 1985<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UXXVHG69"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wild, Reiner: &#x201E;Der Hund seiner Zeit&#x201C;: zu Elias Canettis Selbstverst&#xE4;ndnis als Dichter. In: Sprachkunst. - Wien&#x202F;: Verl. der &#xD6;sterreichischen Akademie der Wissenschaften, 1970-. - ISSN 0038-8483 18 (1987). S. 73/92.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wild, 1987<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UVC8GC86"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Moekel, Paula: Mein Hund Rolf. Ein rechnender und buchstabierendener Airedale- Terrier. 1919.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Moekel, 1919<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UMQSHGKB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Paganini, Claudia: Subjekt oder Objekt? Der Hund im TV-Abendprogramm. Hrsg. v. Petra Mayr. /Tiere als Subjekte (2020).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2020<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UB4NFT4L"
+                }
+            ],
+            "max_results": 81,
+            "time": 11683110
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=h\u00fcnd  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Drews, J&#xF6;rg: Der Mensch ist dem Menschen ein Hund: Tiermetaphern und tierische Metaphern bei Ernst Jandl. In: Ernst Jandl. - Udine&#x202F;: Forum, 1997. - 169 S. 1997. S. 153/164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Drews, 1997<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XC52UXJK"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Hager, Maren: Wie die Literatur auf den Hund kommt: zur Praxis der Motivforschung. Aachen 2007.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Hager, 2007<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "VRQRHZ6E"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Brednich, Rolf Wilhelm: Der Edelmann als Hund: eine Sensationsmeldung des 17. Jahrhunderts und ihr Weg durch die Medien der Zeit. In: Fabula. - Berlin&#x202F;; New York&#x202F;: de Gruyter, 1957-. - ISSN 0014-6242 26 (1985). S. 29/57.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Brednich, 1985<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UXXVHG69"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wild, Reiner: &#x201E;Der Hund seiner Zeit&#x201C;: zu Elias Canettis Selbstverst&#xE4;ndnis als Dichter. In: Sprachkunst. - Wien&#x202F;: Verl. der &#xD6;sterreichischen Akademie der Wissenschaften, 1970-. - ISSN 0038-8483 18 (1987). S. 73/92.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wild, 1987<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UVC8GC86"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Moekel, Paula: Mein Hund Rolf. Ein rechnender und buchstabierendener Airedale- Terrier. 1919.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Moekel, 1919<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UMQSHGKB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Paganini, Claudia: Subjekt oder Objekt? Der Hund im TV-Abendprogramm. Hrsg. v. Petra Mayr. /Tiere als Subjekte (2020).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2020<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UB4NFT4L"
+                }
+            ],
+            "max_results": 81,
+            "time": 14725667
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=\u00e4ndern  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stache, Christian: Wider &#x201E;die idealistische &#xDC;berhebung des Menschen &#xFC;ber die andern Bestien&#x201C;. In: Zeitschrift f&#xFC;r Kritische Tierstudien 1 (2018). S. 77&#x2013;98.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Stache, 2018<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "R5ULJSMD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Grieser, Dietmar: Bauschan und die andern: Thomas Mann: &#x201E;Herr und Hund&#x201C;. In: Grieser, Dietmar, 1934-. Im Tiergarten der Weltliteratur. - M&#xFC;nchen&#x202F;: Langen M&#xFC;ller, 1991. - ISBN 3-7844-2322-1. - 224 S.. - Ill. 1991. S. 47/58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Grieser, 1991<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "JM8H286P"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 4,
+            "time": 5486258
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=\u00e4ndern  +der",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stache, Christian: Wider &#x201E;die idealistische &#xDC;berhebung des Menschen &#xFC;ber die andern Bestien&#x201C;. In: Zeitschrift f&#xFC;r Kritische Tierstudien 1 (2018). S. 77&#x2013;98.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Stache, 2018<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "R5ULJSMD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Grieser, Dietmar: Bauschan und die andern: Thomas Mann: &#x201E;Herr und Hund&#x201C;. In: Grieser, Dietmar, 1934-. Im Tiergarten der Weltliteratur. - M&#xFC;nchen&#x202F;: Langen M&#xFC;ller, 1991. - ISBN 3-7844-2322-1. - 224 S.. - Ill. 1991. S. 47/58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Grieser, 1991<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "JM8H286P"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 4,
+            "time": 5882878
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q={}",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "max_results": 0,
+            "time": 0
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?{}",
+        "verb": "get",
+        "body": "",
+        "resp_status": 400,
+        "resp_body": ""
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search",
+        "verb": "get",
+        "body": "",
+        "resp_status": 400,
+        "resp_body": ""
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=hundes&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": " \u2026hs.  meles vulgaris. \n blaireau ordinaire. \n gr\u00f6\u00dfe eines mittelm\u00e4\u00dfigen <mark>hundes</mark>  die phy\u017fiognomie gleicht etwas der des flei\u017fcherhundes.  der k \u2026 (S. 114)",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 1,
+            "time": 25912363
+        }
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/corpus?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zwischensubstanz",
+            "zwischenraumen",
+            "zwischenraume",
+            "zwischenraum",
+            "zwischen",
+            "zweifelhaft",
+            "zuzuschreiben",
+            "zuziehen",
+            "zuschreibt",
+            "zuschreiben"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/corpus?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zusammenziehungen",
+            "zusammenziehung",
+            "wachsthums",
+            "wachsthum",
+            "vermuthung",
+            "verhuten",
+            "verhungern",
+            "vergleichung",
+            "untersuchungen",
+            "untersuchung"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/corpus?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zusammenziehungen",
+            "zusammenziehung",
+            "vermuthung",
+            "verhungern",
+            "vergleichung",
+            "untersuchungen",
+            "untersuchung",
+            "unterbrechungen",
+            "unterbrechung",
+            "thun"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/corpus?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "hunds",
+            "hunde",
+            "hundes",
+            "hunden",
+            "hundert",
+            "hunderte",
+            "jahrhunderts",
+            "jahrhunderten",
+            "jahrhunderte",
+            "jahrhundert"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/author?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "wilhelm",
+            "ullrich",
+            "troschel",
+            "steinbrecher",
+            "smith",
+            "schmidt",
+            "roscher",
+            "mannheimer verein f\u00fcr naturkunde",
+            "lichtenberg",
+            "brehm"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/author?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "huth",
+            "hurn",
+            "schutting",
+            "schuster",
+            "schulz",
+            "schul",
+            "schubert",
+            "mchugh",
+            "hunter",
+            "chaudhuri"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/author?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "hunter",
+            "hunziker",
+            "thunecke",
+            "olson hunt",
+            "mavhunga",
+            "mackenthun",
+            "internationales forschungszentrum kulturwissenschaften",
+            "hunderich",
+            "forschungsschwerpunkt \"tier - mensch-gesellschaft\""
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/author?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "hunderich"
+        ]
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/all?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/all?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/all?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/suggestions/all?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 404,
+        "resp_body": ""
+    }
+]

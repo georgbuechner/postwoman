@@ -1,0 +1,74 @@
+[
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=h",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zwitschernden",
+            "zwitschernde",
+            "zwitschern",
+            "zwischenzahne",
+            "zwischensubstanz",
+            "zwischenstehend",
+            "zwischenschenkelhaut",
+            "zwischenraumen",
+            "zwischenraume",
+            "zwischenraum"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hu",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "zweihufig",
+            "zusammenziehungen",
+            "zusammenziehung",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hun",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "zusammenziehungen",
+            "zusammenziehung",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde",
+            "windhund"
+        ]
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/suggestions/corpus?q=hund",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": [
+            "zweihundert",
+            "wolfshundes",
+            "wolfshunde",
+            "wolfshund",
+            "windhundes",
+            "windhunden",
+            "windhunde",
+            "windhund",
+            "wachtelhundes",
+            "wachtelhunde"
+        ]
+    }
+]

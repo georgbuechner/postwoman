@@ -1,0 +1,17 @@
+defaults:
+  url: "http://kava-i.de:4848/api/v2/search/suggestions/{}?q={}"
+  verb: "get"
+
+jobs: 
+  - url_params: ["corpus", "h"]
+  - url_params: ["corpus", "hu"]
+  - url_params: ["corpus", "hun"]
+  - url_params: ["corpus", "hund"]
+  - url_params: ["author", "h"]
+  - url_params: ["author", "hu"]
+  - url_params: ["author", "hun"]
+  - url_params: ["author", "hund"]
+  - url_params: ["all", "h"]
+  - url_params: ["all", "hu"]
+  - url_params: ["all", "hun"]
+  - url_params: ["all", "hund"]

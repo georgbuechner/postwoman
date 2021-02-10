@@ -1,0 +1,56 @@
+[
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=beziehung&fuzzyness=0&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": false
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=auszeichnete&fuzzyness=0&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": false
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=dieser&fuzzyness=1&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": true
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=himmelsstriche&fuzzyness=1&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": true
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=gew\u00f6hnte&fuzzyness=1&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": true
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search/pages?query=gewohnte&fuzzyness=1&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": true
+        }
+    }
+]

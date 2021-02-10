@@ -1,0 +1,234 @@
+[
+    {
+        "url": "http://localhost:4848/api/v2/search/pages?query=beziehung&fuzzyness=0&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "page": 7,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 9,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 17,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 21,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 194,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 284,
+                    "words": "beziehung"
+                },
+                {
+                    "page": 292,
+                    "words": "beziehung"
+                }
+            ],
+            "is_fuzzy": false
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=beziehung",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": " \u2026 \u017fteht einzeln f\u00fcr \u017fich allein in der natur da  jedes we\u017fen hat \u017feine <mark>beziehung</mark>  auf andere  jedes \u017fteht mit andern in verbindung nicht das geri \u2026 (S. 7)",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Simeonov, Maria: Die Beziehung zwischen Mensch und Heimtier: Entwicklungen und Tendenzen innerhalb Deutschlands seit der Jahrtausendwende. Wiesbaden 2014. Internet: https://books.google.de/books?id=37ckBAAAQBAJ&amp;printsec=frontcover&amp;dq=Die+Beziehung+zwischen+Mensch+und+Heimtier.+Entwicklungen+und+Tendenzen+innerhalb+Deutschlands+seit+der+Jahrtausendwende.&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwipvPOPp_TRAhVDyRQKHaHoBEIQ6AEIGjAA#v=onepage&amp;q=Die%20Beziehung%20zwischen%20Mensch%20und%20Heimtier.%20Entwicklungen%20und%20Tendenzen%20innerhalb%20Deutschlands%20seit%20der%20Jahrtausendwende.&amp;f=false.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Simeonov, 2014<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehung zwischen Mensch und Heimtier: Entwicklungen und Tendenzen innerhalb Deutschlands seit der Jahrtausendwende \u2026",
+                    "scanId": "Z7I3EHEN"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Anhalt, Utz: Wolf und Mensch &#x2013; Skizzen einer dramatischen Beziehung. Hrsg. v. Petra Mayr. /W&#xF6;lfen begegnen (2019).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2019<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wolf und Mensch \u2013 Skizzen einer dramatischen Beziehung \u2026",
+                    "scanId": "YQ5KGR9Y"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wannenmacher, Julia Eva: Theologie. Ambivalenzen einer Beziehung- und ein Pl&#xE4;doyer f&#xFC;r eine antispeziesistische Theologie. In: Disziplinierte Tiere? Perspektiven der Human-Animal Studies f&#xFC;r die wissenschaftlichen Disziplinen. Hrsg. v. Reingard Spannring. Bielefeld 2015. S. 287&#x2013;319.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wannenmacher, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Theologie. Ambivalenzen einer Beziehung- und ein Pl\u00e4doyer f\u00fcr eine antispeziesistische Theologie \u2026",
+                    "scanId": "X9S6I3N2"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. \u2026",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Mair, Adolf: Die Frage der Besteuerung des Haltens von Hunden in ihrer Beziehung zur Sanit&#xE4;tspolizei. Ansbach 1870.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Mair, 1870<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Frage der Besteuerung des Haltens von Hunden in ihrer Beziehung zur Sanit\u00e4tspolizei. \u2026",
+                    "scanId": "UMQVGNCG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Greyerz, Kaspar von: Religion und Natur in der Fr&#xFC;hen Neuzeit. Aspekte einer vielschichtigen Beziehung. In: &#x201E;Die Natur ist &#xFC;berall bey uns&#x201C;: Mensch und Natur in der Fr&#xFC;hen Neuzeit. Z&#xFC;rich 2009. S. 41&#x2013;58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Greyerz, 2009<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Religion und Natur in der Fr\u00fchen Neuzeit. Aspekte einer vielschichtigen Beziehung \u2026",
+                    "scanId": "TD2I6VT6"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Lurker, Manfred: Hund und Wolf in ihrer Beziehung zum Tode. In: Antaios 10 (1969). S. 199&#x2013;216.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Lurker, 1969<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Hund und Wolf in ihrer Beziehung zum Tode \u2026",
+                    "scanId": "T4KEIX2V"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schuster, Wilhelm: Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V&#xF6;lker. Stuttgart 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schuster, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V\u00f6lker. \u2026",
+                    "scanId": "QDYHEHZP"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ettinger, Joseph C.: Der Thierschutz in seinen moralischen und praktischen Beziehungen. Vereinsschrift des M&#xFC;nchener Thierschutzvereines. M&#xFC;nchen 1869.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Ettinger, 1869<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Thierschutz in seinen moralischen und praktischen Beziehungen. Vereinsschrift des M\u00fcnchener Thierschutzvereines. \u2026",
+                    "scanId": "P2I8IJCK"
+                }
+            ],
+            "max_results": 30,
+            "time": 15335622
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search/pages?query=beziehung&fuzzyness=1&scanId=UEHEJINT",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "is_fuzzy": true
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=beziehung",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": " \u2026 \u017fteht einzeln f\u00fcr \u017fich allein in der natur da  jedes we\u017fen hat \u017feine <mark>beziehung</mark>  auf andere  jedes \u017fteht mit andern in verbindung nicht das geri \u2026 (S. 7)",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Simeonov, Maria: Die Beziehung zwischen Mensch und Heimtier: Entwicklungen und Tendenzen innerhalb Deutschlands seit der Jahrtausendwende. Wiesbaden 2014. Internet: https://books.google.de/books?id=37ckBAAAQBAJ&amp;printsec=frontcover&amp;dq=Die+Beziehung+zwischen+Mensch+und+Heimtier.+Entwicklungen+und+Tendenzen+innerhalb+Deutschlands+seit+der+Jahrtausendwende.&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwipvPOPp_TRAhVDyRQKHaHoBEIQ6AEIGjAA#v=onepage&amp;q=Die%20Beziehung%20zwischen%20Mensch%20und%20Heimtier.%20Entwicklungen%20und%20Tendenzen%20innerhalb%20Deutschlands%20seit%20der%20Jahrtausendwende.&amp;f=false.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Simeonov, 2014<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehung zwischen Mensch und Heimtier: Entwicklungen und Tendenzen innerhalb Deutschlands seit der Jahrtausendwende \u2026",
+                    "scanId": "Z7I3EHEN"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Anhalt, Utz: Wolf und Mensch &#x2013; Skizzen einer dramatischen Beziehung. Hrsg. v. Petra Mayr. /W&#xF6;lfen begegnen (2019).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2019<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wolf und Mensch \u2013 Skizzen einer dramatischen Beziehung \u2026",
+                    "scanId": "YQ5KGR9Y"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wannenmacher, Julia Eva: Theologie. Ambivalenzen einer Beziehung- und ein Pl&#xE4;doyer f&#xFC;r eine antispeziesistische Theologie. In: Disziplinierte Tiere? Perspektiven der Human-Animal Studies f&#xFC;r die wissenschaftlichen Disziplinen. Hrsg. v. Reingard Spannring. Bielefeld 2015. S. 287&#x2013;319.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wannenmacher, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Theologie. Ambivalenzen einer Beziehung- und ein Pl\u00e4doyer f\u00fcr eine antispeziesistische Theologie \u2026",
+                    "scanId": "X9S6I3N2"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. \u2026",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Mair, Adolf: Die Frage der Besteuerung des Haltens von Hunden in ihrer Beziehung zur Sanit&#xE4;tspolizei. Ansbach 1870.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Mair, 1870<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Frage der Besteuerung des Haltens von Hunden in ihrer Beziehung zur Sanit\u00e4tspolizei. \u2026",
+                    "scanId": "UMQVGNCG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Greyerz, Kaspar von: Religion und Natur in der Fr&#xFC;hen Neuzeit. Aspekte einer vielschichtigen Beziehung. In: &#x201E;Die Natur ist &#xFC;berall bey uns&#x201C;: Mensch und Natur in der Fr&#xFC;hen Neuzeit. Z&#xFC;rich 2009. S. 41&#x2013;58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Greyerz, 2009<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Religion und Natur in der Fr\u00fchen Neuzeit. Aspekte einer vielschichtigen Beziehung \u2026",
+                    "scanId": "TD2I6VT6"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Lurker, Manfred: Hund und Wolf in ihrer Beziehung zum Tode. In: Antaios 10 (1969). S. 199&#x2013;216.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Lurker, 1969<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Hund und Wolf in ihrer Beziehung zum Tode \u2026",
+                    "scanId": "T4KEIX2V"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schuster, Wilhelm: Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V&#xF6;lker. Stuttgart 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schuster, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V\u00f6lker. \u2026",
+                    "scanId": "QDYHEHZP"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Ettinger, Joseph C.: Der Thierschutz in seinen moralischen und praktischen Beziehungen. Vereinsschrift des M&#xFC;nchener Thierschutzvereines. M&#xFC;nchen 1869.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Ettinger, 1869<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Thierschutz in seinen moralischen und praktischen Beziehungen. Vereinsschrift des M\u00fcnchener Thierschutzvereines. \u2026",
+                    "scanId": "P2I8IJCK"
+                }
+            ],
+            "max_results": 30,
+            "time": 15484298
+        }
+    }
+]

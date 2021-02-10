@@ -1,0 +1,518 @@
+[
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=Himmelsstriche",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Pritikin, Renny: Futurefarmers. In: Antennae: The Journal of Nature in Visual Culture 17/Why Look at Plants? (2011). Internet: http://www.antennae.org.uk/download/i/mark_dl/u/4012379076/4607883684/ANTENNAE%20ISSUE%2017.docx.pdf. S. 72&#x2013;76.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Pritikin, 2011",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "7Y9JHXRA"
+                }
+            ],
+            "max_results": 1,
+            "time": 1575387
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=h\u00fcnd",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026ertrinkungs  tode hat verf jedoch noch folgende versuche angestellt  i ein <mark>hund</mark> wurde schnell in ein gef\u00e4ss voll klaren  wassers eingetaucht und mit  \u2026 (S. 43)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wilkenheit, Katja/Schulz, B&#xE4;rbel: Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T&#xE4;tigkeiten von Tieren am Beispiel von Hunden. In: Gesellschaft und Tiere. Hrsg. v. Birgit Pfau-Effinger/ Sonja Buschka. Wiesbaden 2013. S. 12&#x2013;164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wilkenheit, 2013<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T\u00e4tigkeiten von Tieren am Beispiel von Hunden \u2026",
+                    "scanId": "GQ7H6ZPG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">M&#xFC;ller, Georg: Der gesunde Hund. Naturgeschichte, K&#xF6;rperbau, Rassen, Aufzucht und Pflege des Hundes. Berlin 1899.</div>\n</div>",
+                    "copyright": false,
+                    "description": "M\u00fcller, 1899<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der gesunde Hund. Naturgeschichte, K\u00f6rperbau, Rassen, Aufzucht und Pflege des Hundes. \u2026",
+                    "scanId": "FT9AL77A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Jacobs, Joela: Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein?\" Kommunikation, Epistemologie und Willensfreiheit in Kafkas \"Forschungen eines Hundes. In: Kafkas Tiere. Hrsg. v. Harald Neumeyer/ Wilko Steffens. Vierter Bd. W&#xFC;rzburg 2015. S. 293&#x2013;306.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Jacobs, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein? Kommunikation, Epistemologie und Willensfreiheit in Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "BGQWTVSX"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fitzinger, Leopold Joseph: Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. T&#xFC;bingen 1876.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Fitzinger, 1876<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. \u2026",
+                    "scanId": "4TQ6X7BD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Vom Hund handeln hei\u00dft: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft \u2026",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Leadbeater, Lewis W.: The sophistic nature of Kafka&#x2019;s &#x201E;Forschungen eines Hundes&#x201C;. In: German life and letters. - Oxford&#x202F;; Malden&#x202F;: Wiley-Blackwell, 1936-. - ISSN 0016-8777 46/2 (1993). S. 145/155.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Leadbeater, 1993<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026The sophistic nature of Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "ZU8M4NX4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei\u00dfung Im Sp\u00e4twerk Von Monika Maron \u2026",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wieder ein buchstabierender Hund. \u2026",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Agthe, Marion: Das Bild des Hundes in Albrecht D&#xFC;rers Gesamtwerk: Darstellungen und Deutungsversuche. Bochum 1987.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Agthe, 1987<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Das Bild des Hundes in Albrecht D\u00fcrers Gesamtwerk: Darstellungen und Deutungsversuche \u2026",
+                    "scanId": "ZJCZDT8T"
+                }
+            ],
+            "max_results": 161,
+            "time": 45408045
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=  h\u00fcnd",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026ertrinkungs  tode hat verf jedoch noch folgende versuche angestellt  i ein <mark>hund</mark> wurde schnell in ein gef\u00e4ss voll klaren  wassers eingetaucht und mit  \u2026 (S. 43)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wilkenheit, Katja/Schulz, B&#xE4;rbel: Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T&#xE4;tigkeiten von Tieren am Beispiel von Hunden. In: Gesellschaft und Tiere. Hrsg. v. Birgit Pfau-Effinger/ Sonja Buschka. Wiesbaden 2013. S. 12&#x2013;164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wilkenheit, 2013<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T\u00e4tigkeiten von Tieren am Beispiel von Hunden \u2026",
+                    "scanId": "GQ7H6ZPG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">M&#xFC;ller, Georg: Der gesunde Hund. Naturgeschichte, K&#xF6;rperbau, Rassen, Aufzucht und Pflege des Hundes. Berlin 1899.</div>\n</div>",
+                    "copyright": false,
+                    "description": "M\u00fcller, 1899<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der gesunde Hund. Naturgeschichte, K\u00f6rperbau, Rassen, Aufzucht und Pflege des Hundes. \u2026",
+                    "scanId": "FT9AL77A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Jacobs, Joela: Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein?\" Kommunikation, Epistemologie und Willensfreiheit in Kafkas \"Forschungen eines Hundes. In: Kafkas Tiere. Hrsg. v. Harald Neumeyer/ Wilko Steffens. Vierter Bd. W&#xFC;rzburg 2015. S. 293&#x2013;306.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Jacobs, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein? Kommunikation, Epistemologie und Willensfreiheit in Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "BGQWTVSX"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fitzinger, Leopold Joseph: Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. T&#xFC;bingen 1876.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Fitzinger, 1876<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. \u2026",
+                    "scanId": "4TQ6X7BD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Vom Hund handeln hei\u00dft: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft \u2026",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Leadbeater, Lewis W.: The sophistic nature of Kafka&#x2019;s &#x201E;Forschungen eines Hundes&#x201C;. In: German life and letters. - Oxford&#x202F;; Malden&#x202F;: Wiley-Blackwell, 1936-. - ISSN 0016-8777 46/2 (1993). S. 145/155.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Leadbeater, 1993<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026The sophistic nature of Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "ZU8M4NX4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei\u00dfung Im Sp\u00e4twerk Von Monika Maron \u2026",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wieder ein buchstabierender Hund. \u2026",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Agthe, Marion: Das Bild des Hundes in Albrecht D&#xFC;rers Gesamtwerk: Darstellungen und Deutungsversuche. Bochum 1987.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Agthe, 1987<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Das Bild des Hundes in Albrecht D\u00fcrers Gesamtwerk: Darstellungen und Deutungsversuche \u2026",
+                    "scanId": "ZJCZDT8T"
+                }
+            ],
+            "max_results": 161,
+            "time": 22634709
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=  h\u00fcnd  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026ertrinkungs  tode hat verf jedoch noch folgende versuche angestellt  i ein <mark>hund</mark> wurde schnell in ein gef\u00e4ss voll klaren  wassers eingetaucht und mit  \u2026 (S. 43)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wilkenheit, Katja/Schulz, B&#xE4;rbel: Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T&#xE4;tigkeiten von Tieren am Beispiel von Hunden. In: Gesellschaft und Tiere. Hrsg. v. Birgit Pfau-Effinger/ Sonja Buschka. Wiesbaden 2013. S. 12&#x2013;164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wilkenheit, 2013<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T\u00e4tigkeiten von Tieren am Beispiel von Hunden \u2026",
+                    "scanId": "GQ7H6ZPG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">M&#xFC;ller, Georg: Der gesunde Hund. Naturgeschichte, K&#xF6;rperbau, Rassen, Aufzucht und Pflege des Hundes. Berlin 1899.</div>\n</div>",
+                    "copyright": false,
+                    "description": "M\u00fcller, 1899<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der gesunde Hund. Naturgeschichte, K\u00f6rperbau, Rassen, Aufzucht und Pflege des Hundes. \u2026",
+                    "scanId": "FT9AL77A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Jacobs, Joela: Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein?\" Kommunikation, Epistemologie und Willensfreiheit in Kafkas \"Forschungen eines Hundes. In: Kafkas Tiere. Hrsg. v. Harald Neumeyer/ Wilko Steffens. Vierter Bd. W&#xFC;rzburg 2015. S. 293&#x2013;306.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Jacobs, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein? Kommunikation, Epistemologie und Willensfreiheit in Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "BGQWTVSX"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fitzinger, Leopold Joseph: Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. T&#xFC;bingen 1876.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Fitzinger, 1876<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. \u2026",
+                    "scanId": "4TQ6X7BD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Vom Hund handeln hei\u00dft: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft \u2026",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Leadbeater, Lewis W.: The sophistic nature of Kafka&#x2019;s &#x201E;Forschungen eines Hundes&#x201C;. In: German life and letters. - Oxford&#x202F;; Malden&#x202F;: Wiley-Blackwell, 1936-. - ISSN 0016-8777 46/2 (1993). S. 145/155.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Leadbeater, 1993<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026The sophistic nature of Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "ZU8M4NX4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei\u00dfung Im Sp\u00e4twerk Von Monika Maron \u2026",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wieder ein buchstabierender Hund. \u2026",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Agthe, Marion: Das Bild des Hundes in Albrecht D&#xFC;rers Gesamtwerk: Darstellungen und Deutungsversuche. Bochum 1987.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Agthe, 1987<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Das Bild des Hundes in Albrecht D\u00fcrers Gesamtwerk: Darstellungen und Deutungsversuche \u2026",
+                    "scanId": "ZJCZDT8T"
+                }
+            ],
+            "max_results": 161,
+            "time": 21853454
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=h\u00fcnd  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026ertrinkungs  tode hat verf jedoch noch folgende versuche angestellt  i ein <mark>hund</mark> wurde schnell in ein gef\u00e4ss voll klaren  wassers eingetaucht und mit  \u2026 (S. 43)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wilkenheit, Katja/Schulz, B&#xE4;rbel: Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T&#xE4;tigkeiten von Tieren am Beispiel von Hunden. In: Gesellschaft und Tiere. Hrsg. v. Birgit Pfau-Effinger/ Sonja Buschka. Wiesbaden 2013. S. 12&#x2013;164.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Wilkenheit, 2013<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund in der Erwerbsarbeit der Dienstleistungsgesellschaft. Eine Untersuchung der Merkmale und Bedingungen qualifizierter T\u00e4tigkeiten von Tieren am Beispiel von Hunden \u2026",
+                    "scanId": "GQ7H6ZPG"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">M&#xFC;ller, Georg: Der gesunde Hund. Naturgeschichte, K&#xF6;rperbau, Rassen, Aufzucht und Pflege des Hundes. Berlin 1899.</div>\n</div>",
+                    "copyright": false,
+                    "description": "M\u00fcller, 1899<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der gesunde Hund. Naturgeschichte, K\u00f6rperbau, Rassen, Aufzucht und Pflege des Hundes. \u2026",
+                    "scanId": "FT9AL77A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Jacobs, Joela: Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein?\" Kommunikation, Epistemologie und Willensfreiheit in Kafkas \"Forschungen eines Hundes. In: Kafkas Tiere. Hrsg. v. Harald Neumeyer/ Wilko Steffens. Vierter Bd. W&#xFC;rzburg 2015. S. 293&#x2013;306.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Jacobs, 2015<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein? Kommunikation, Epistemologie und Willensfreiheit in Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "BGQWTVSX"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Fitzinger, Leopold Joseph: Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. T&#xFC;bingen 1876.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Fitzinger, 1876<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Der Hund und seine Racen. Naturgeschichte des zahmen Hundes, seiner Formen, Racen und Kreuzungen. \u2026",
+                    "scanId": "4TQ6X7BD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Vom Hund handeln hei\u00dft: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft \u2026",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Leadbeater, Lewis W.: The sophistic nature of Kafka&#x2019;s &#x201E;Forschungen eines Hundes&#x201C;. In: German life and letters. - Oxford&#x202F;; Malden&#x202F;: Wiley-Blackwell, 1936-. - ISSN 0016-8777 46/2 (1993). S. 145/155.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Leadbeater, 1993<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026The sophistic nature of Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "ZU8M4NX4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei&#xDF;ung Im Sp&#xE4;twerk Von Monika Maron. In: Topos Tier. Hrsg. v. Annette B&#xFC;hler-Dietrich/ Michael Weingarten. Bielefeld 2016. Internet: http://www.degruyter.com/view/books/9783839428603/9783839428603-010/9783839428603-010.xml. Zuletzt gepr&#xFC;ft am: 21.5.2020. S. 189&#x2013;207.</div>\n</div>",
+                    "copyright": true,
+                    "description": "B\u00fchler-Dietrich, 2016<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026An Der Schwelle Zum Irdischen Paradies. Der Hund Als Gestalt Gewordene Verhei\u00dfung Im Sp\u00e4twerk Von Monika Maron \u2026",
+                    "scanId": "ZQVR7RFB"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Weismann, Anna: Wieder ein buchstabierender Hund. In: Mitteilungen der Gesellschaft f&#xFC;r Tierpsychologie 2 2 (1921). S. 25&#x2013;38.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Weismann, 1921<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wieder ein buchstabierender Hund. \u2026",
+                    "scanId": "ZM2LYL9A"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Agthe, Marion: Das Bild des Hundes in Albrecht D&#xFC;rers Gesamtwerk: Darstellungen und Deutungsversuche. Bochum 1987.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Agthe, 1987<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Das Bild des Hundes in Albrecht D\u00fcrers Gesamtwerk: Darstellungen und Deutungsversuche \u2026",
+                    "scanId": "ZJCZDT8T"
+                }
+            ],
+            "max_results": 161,
+            "time": 21627366
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=\u00e4ndern  ",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026luss der kochsalzl\u00f6sung steht  diesen einfluss zu hemmen  vermag  d h mit <mark>andern</mark> worten den nerven beruhigt am  schlagendsten f\u00fcr unsere ansicht  na \u2026 (S. 6)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehungen der Tierschutzbewegungen zu <mark>andern</mark> ethischen Bestrebungen. \u2026",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stache, Christian: Wider &#x201E;die idealistische &#xDC;berhebung des Menschen &#xFC;ber die andern Bestien&#x201C;. In: Zeitschrift f&#xFC;r Kritische Tierstudien 1 (2018). S. 77&#x2013;98.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Stache, 2018<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wider die idealistische \u00dcberhebung des Menschen \u00fcber die <mark>andern</mark> Bestien \u2026",
+                    "scanId": "R5ULJSMD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Grieser, Dietmar: Bauschan und die andern: Thomas Mann: &#x201E;Herr und Hund&#x201C;. In: Grieser, Dietmar, 1934-. Im Tiergarten der Weltliteratur. - M&#xFC;nchen&#x202F;: Langen M&#xFC;ller, 1991. - ISBN 3-7844-2322-1. - 224 S.. - Ill. 1991. S. 47/58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Grieser, 1991<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Bauschan und die <mark>andern</mark> Thomas Mann: Herr und Hund \u2026",
+                    "scanId": "JM8H286P"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Pritikin, Renny: Futurefarmers. In: Antennae: The Journal of Nature in Visual Culture 17/Why Look at Plants? (2011). Internet: http://www.antennae.org.uk/download/i/mark_dl/u/4012379076/4607883684/ANTENNAE%20ISSUE%2017.docx.pdf. S. 72&#x2013;76.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Pritikin, 2011",
+                    "hasocr": true,
+                    "preview": " \u2026e g\u00f6ttliche wi\u017f\u017fen\u017fchaft wurde immer allgemeiner  ihre verbindung mit <mark>andern</mark> inniger   damit auch ihre anwendung manigfaltiger und ins leben der  \u2026 (S. 6)",
+                    "scanId": "7Y9JHXRA"
+                }
+            ],
+            "max_results": 5,
+            "time": 5773169
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q=\u00e4ndern  +der",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Uek&#xF6;tter, Frank/Zelinger, Amir: Die feinen Unterschiede. Die Tierschutzbewegung und die Gegenwart der Geschichte. In: Das Tier an sich. Disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 119&#x2013;134.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Uek\u00f6tter, 2012",
+                    "hasocr": true,
+                    "preview": " \u2026luss <mark>der</mark> kochsalzl\u00f6sung steht  diesen einfluss zu hemmen  vermag  d h mit <mark>andern</mark> worten den nerven beruhigt am  schlagendsten f\u00fcr unsere ansicht  na \u2026 (S. 6)",
+                    "scanId": "44PSVWF9"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schwantje, Magnus: Die Beziehungen der Tierschutzbewegungen zu andern ethischen Bestrebungen. Berlin 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schwantje, 1909<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Beziehungen <mark>der</mark> Tierschutzbewegungen zu <mark>andern</mark> ethischen Bestrebungen. \u2026",
+                    "scanId": "UUI33GND"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Stache, Christian: Wider &#x201E;die idealistische &#xDC;berhebung des Menschen &#xFC;ber die andern Bestien&#x201C;. In: Zeitschrift f&#xFC;r Kritische Tierstudien 1 (2018). S. 77&#x2013;98.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Stache, 2018<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Wi<mark>der</mark> die idealistische \u00dcberhebung des Menschen \u00fcber die <mark>andern</mark> Bestien \u2026",
+                    "scanId": "R5ULJSMD"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Grieser, Dietmar: Bauschan und die andern: Thomas Mann: &#x201E;Herr und Hund&#x201C;. In: Grieser, Dietmar, 1934-. Im Tiergarten der Weltliteratur. - M&#xFC;nchen&#x202F;: Langen M&#xFC;ller, 1991. - ISBN 3-7844-2322-1. - 224 S.. - Ill. 1991. S. 47/58.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Grieser, 1991<span style='color:orange;font-size:80%'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Bauschan und die <mark>an<mark>der</mark> Thomas Mann: Herr und Hund \u2026",
+                    "scanId": "JM8H286P"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Pritikin, Renny: Futurefarmers. In: Antennae: The Journal of Nature in Visual Culture 17/Why Look at Plants? (2011). Internet: http://www.antennae.org.uk/download/i/mark_dl/u/4012379076/4607883684/ANTENNAE%20ISSUE%2017.docx.pdf. S. 72&#x2013;76.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Pritikin, 2011",
+                    "hasocr": true,
+                    "preview": " \u2026e g\u00f6ttliche wi\u017f\u017fen\u017fchaft wurde immer allgemeiner  ihre verbindung mit <mark>an<mark>der</mark> inniger   damit auch ihre anwendung manigfaltiger und ins leben der  \u2026 (S. 6)",
+                    "scanId": "7Y9JHXRA"
+                }
+            ],
+            "max_results": 5,
+            "time": 198402114
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?q={}",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "max_results": 0,
+            "time": 0
+        }
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search?{}",
+        "verb": "get",
+        "body": "",
+        "resp_status": 400,
+        "resp_body": ""
+    },
+    {
+        "url": "http://kava-i.de:4848/api/v2/search",
+        "verb": "get",
+        "body": "",
+        "resp_status": 400,
+        "resp_body": ""
+    }
+]

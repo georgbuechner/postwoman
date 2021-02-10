@@ -1,0 +1,326 @@
+[
+    {
+        "url": "http://localhost:4848/api/v2/search?q=Himmelsstriche&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 1,
+            "time": 71099802
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=h\u00fcnd&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": "No Preview.",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Bujanovics, Ladislaus: Geschichte meiner zehn Vorstehhunde, enthaltend Beispiele &#xFC;ber die Dressur des H&#xFC;hnerhundes als auch &#xFC;ber die F&#xFC;hrung des ferm dressirten Hundes, damit er nicht verliege. Wien 1862.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Bujanovics, 1862<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "RCIXS6BF"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Koopmann, Helmut: Vom Hund handeln hei&#xDF;t: auch vom Menschen handeln: Thomas Manns Hundejahre und Bauschans vierbeinige Verwandtschaft. In: Von &#x201E;Reynke de vos&#x201C; bis zum &#x201E;Butt&#x201C;. - 1. Auflage. - Rostock&#x202F;: Hinstorff, 2016. - ISBN 978-3-356-02026-7. - 160 Seiten. - Illustrationen. 2016. S. 69&#x2013;85.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Koopmann, 2016<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "ZWZS9S5N"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Buchner-Fuhs, Jutta: &#x201A;Im Wagen sa&#xDF;en zwei Damen mit einem Bologneserh&#xFC;ndchen&#x2018;. Zur st&#xE4;dtischen Hundehaltung in der wilhelminischen Klassengesellschaft um 1900. In: Hessische Bl&#xE4;tter f&#xFC;r Volks- und Kulturforschung 27 (1991). S. 119&#x2013;138.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Buchner-Fuhs, 1991<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Im Wagen sa\u00dfen zwei Damen mit einem Bologneser<mark>h\u00fcnd</mark> Zur st\u00e4dtischen Hundehaltung in der wilhelminischen Klassengesellschaft um 1900. \u2026",
+                    "scanId": "Y3ZXEF3R"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Kynast, Katja: Personalerweiterung: Gef&#xFC;ge von Menschen, Phantomen und Hunden in der Blindenf&#xFC;hrhundausbildung nach Jakob von Uexk&#xFC;ll und Emanuel Sarris. In: Animal Encounters: Kontakt, Interaktion und Relationalit&#xE4;t. Hrsg. v. Alexandra B&#xF6;hm/ Jessica Ullrich. Stuttgart 2019. Internet: https://doi.org/10.1007/978-3-476-04939-1_20. Zuletzt gepr&#xFC;ft am: 18.5.2020. S. 323&#x2013;341.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Kynast, 2019<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XD2YTDPZ"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Krych, David: &#x201A;Auch uns ist ein gut dressirter Affe lieber als ein schlecht dressirter Kom&#xF6;diant.&#x2018; Affentheater und Hundekom&#xF6;dien in Wien im 19. Jahrhundert. In: Artistenleben auf vergessenen Wegen. Eine Spurensuche in Wien. Hrsg. v. Birgit Peter/ Robert Kaldy-Karo. Wien 2013. S. 145&#x2013;168.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Krych, 2013<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "XCFGW8HN"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: Belly&#x2019;chen ist Trumpf: poetische und andere Hunde im 19. Jahrhundert. Bielefeld 2005.</div>\n</div>",
+                    "copyright": true,
+                    "description": "R\u00f6mhild, 2005<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "WXQHWDFF"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Th&#xFC;ngen, Carl Ernst von: Die Federwild-Jagd mit dem Vorstehhunde. Nebst Skizzen aus dem J&#xE4;ger und Hundeleben. Zur Belehrung und Unterhaltung f&#xFC;r angehende J&#xE4;ger. Hrsg. v. Ludwig Ziegler. Hannover 1875.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Th\u00fcngen, 1875<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "V8693ZQE"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Brednich, Rolf Wilhelm: Der Edelmann als Hund: eine Sensationsmeldung des 17. Jahrhunderts und ihr Weg durch die Medien der Zeit. In: Fabula. - Berlin&#x202F;; New York&#x202F;: de Gruyter, 1957-. - ISSN 0014-6242 26 (1985). S. 29/57.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Brednich, 1985<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "UXXVHG69"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Th&#xFC;ngen, Carl Ernst von: Die Federwild-Jagd mit dem Vorstehhunde. Nebst Skizzen aus dem J&#xE4;ger und Hundeleben. Zur Belehrung und Unterhaltung f&#xFC;r angehende J&#xE4;ger. Hrsg. v. Ludwig Ziegler. Hannover 1875.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Th\u00fcngen, 1875<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": "No Preview.",
+                    "scanId": "R4TWGGVL"
+                }
+            ],
+            "max_results": 332,
+            "time": 99209322
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=hundes&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": " \u2026hs.  meles vulgaris. \n blaireau ordinaire. \n gr\u00f6\u00dfe eines mittelm\u00e4\u00dfigen <mark>hundes</mark>  die phy\u017fiognomie gleicht etwas der des flei\u017fcherhundes.  der k \u2026 (S. 114)",
+                    "scanId": "UEHEJINT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Bujanovics, Ladislaus: Geschichte meiner zehn Vorstehhunde, enthaltend Beispiele &#xFC;ber die Dressur des H&#xFC;hnerhundes als auch &#xFC;ber die F&#xFC;hrung des ferm dressirten Hundes, damit er nicht verliege. Wien 1862.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Bujanovics, 1862<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Geschichte meiner zehn Vorstehhunde, enthaltend Beispiele \u00fcber die Dressur<mark>hundes</mark> H\u00fchnerhundes als auch \u00fcber die F\u00fchrung des ferm dressirten Hundes, damit er nicht verliege. \u2026",
+                    "scanId": "RCIXS6BF"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Jacobs, Joela: Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein?\" Kommunikation, Epistemologie und Willensfreiheit in Kafkas \"Forschungen eines Hundes. In: Kafkas Tiere. Hrsg. v. Harald Neumeyer/ Wilko Steffens. Vierter Bd. W&#xFC;rzburg 2015. S. 293&#x2013;306.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Jacobs, 2015<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Waren es etwa doch nicht die Hunde? Aber wie sollten es denn nicht die Hunde sein? Kommunikation, Epistemologie und Willensfreiheit in Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "BGQWTVSX"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Leadbeater, Lewis W.: The sophistic nature of Kafka&#x2019;s &#x201E;Forschungen eines Hundes&#x201C;. In: German life and letters. - Oxford&#x202F;; Malden&#x202F;: Wiley-Blackwell, 1936-. - ISSN 0016-8777 46/2 (1993). S. 145/155.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Leadbeater, 1993<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026The sophistic nature of Kafkas Forschungen eines Hundes \u2026",
+                    "scanId": "ZU8M4NX4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Agthe, Marion: Das Bild des Hundes in Albrecht D&#xFC;rers Gesamtwerk: Darstellungen und Deutungsversuche. Bochum 1987.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Agthe, 1987<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Das Bild des Hundes in Albrecht D\u00fcrers Gesamtwerk: Darstellungen und Deutungsversuche \u2026",
+                    "scanId": "ZJCZDT8T"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Tewes, Friedrich: Nothschrei der Hunde. In: Hamburger Thier-Freund 27 (1858). S. 4&#x2013;5.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Tewes, 1858<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Nothschrei der Hunde. \u2026",
+                    "scanId": "ZGXFHI2G"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Luggauer, Elisabeth: Die Ordnung von Wildheit. Hunde in st&#xE4;dtischen R&#xE4;umen. In: Tierstudien 08/Wild (2015). S. 104&#x2013;114.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Luggauer, 2015<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Ordnung von Wildheit. Hunde in st\u00e4dtischen R\u00e4umen \u2026",
+                    "scanId": "ZBBFED8P"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Pusch, Anne Franciska: Unleashed - Hunde auf Abwegen. In: Tierstudien 02/Tiere auf Reisen (2012). S. 25&#x2013;43.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Pusch, 2012<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Unleashed - Hunde auf Abwegen \u2026",
+                    "scanId": "XF563VTH"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Kynast, Katja: Personalerweiterung: Gef&#xFC;ge von Menschen, Phantomen und Hunden in der Blindenf&#xFC;hrhundausbildung nach Jakob von Uexk&#xFC;ll und Emanuel Sarris. In: Animal Encounters: Kontakt, Interaktion und Relationalit&#xE4;t. Hrsg. v. Alexandra B&#xF6;hm/ Jessica Ullrich. Stuttgart 2019. Internet: https://doi.org/10.1007/978-3-476-04939-1_20. Zuletzt gepr&#xFC;ft am: 18.5.2020. S. 323&#x2013;341.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Kynast, 2019<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Personalerweiterung: Gef\u00fcge von Menschen, Phantomen und Hunden in der Blindenf\u00fchrhundausbildung nach Jakob von Uexk\u00fcll und Emanuel Sarris \u2026",
+                    "scanId": "XD2YTDPZ"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xF6;mhild, Dorothee: Belly&#x2019;chen ist Trumpf: poetische und andere Hunde im 19. Jahrhundert. Bielefeld 2005.</div>\n</div>",
+                    "copyright": true,
+                    "description": "R\u00f6mhild, 2005<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Bellychen ist Trumpf: poetische und andere Hunde im 19. Jahr<mark>hundes</mark> \u2026",
+                    "scanId": "WXQHWDFF"
+                }
+            ],
+            "max_results": 97,
+            "time": 78379289
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=handers&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">R&#xFC;ttimann, Andreas/Gerritsen, Vanessa/Blattner, Charlotte E.: Zul&#xE4;ssigkeit von Beschr&#xE4;nkungen des Handels mit tierqu&#xE4;lerisch hergestellten Pelzprodukten. Hrsg. v. Petra Mayr. /Tierrechte (2017).</div>\n</div>",
+                    "copyright": true,
+                    "description": "Mayr, 2017<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Zul\u00e4ssigkeit von Beschr\u00e4nkungen des Handels mit tierqu\u00e4lerisch hergestellten Pelzprodukten \u2026",
+                    "scanId": "KA8CG4S4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Nietzsche, Friedrich Wilhelm: Genealogie der Moral. KSA 5. Hrsg. v. Giorgio Colli/ Mazzino Montinari. M&#xFC;nchen 1999.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Nietzsche, 1999",
+                    "hasocr": true,
+                    "preview": " \u2026aleopithecus) trennt aber die\u017fe gattung nun v\u00f6llig von den \u00fcbrigen vier <mark>handern</mark> und n\u00e4hert \u017fie\n den handfl\u00fcglern. \n dritte ordnung der s\u00e4uget  \u2026 (S. 85)",
+                    "scanId": "UEHEJINT"
+                }
+            ],
+            "max_results": 2,
+            "time": 61119529
+        }
+    },
+    {
+        "url": "http://localhost:4848/api/v2/search?q=philofophie&fuzzyness=1",
+        "verb": "get",
+        "body": "",
+        "resp_status": 200,
+        "resp_body": {
+            "books": [
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Smellie, William: William Smellie&#x2019;s Philosophie der Naturgeschichte. Erster Bd. Berlin 1791. Internet: https://opacplus.bsb-muenchen.de/search?id.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Smellie, 1791<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026William Smellies Philosophie der Naturgeschichte \u2026",
+                    "scanId": "U39B3WS8"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Wild, Markus: Die Relevanz der Philosophie des Geistes f&#xFC;r den wissenschaftsbasierten Tierschutz. In: Das Tier an sich: disziplinen&#xFC;bergreifende Perspektiven f&#xFC;r neue Wege im wissenschaftsbasierten Tierschutz. Hrsg. v. Herwig Grimm/ Carola Otterstedt. G&#xF6;ttingen 2012. S. 61&#x2013;86.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Grimm, 2012<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Relevanz der Philosophie des Geistes f\u00fcr den wissenschaftsbasierten Tierschutz \u2026",
+                    "scanId": "SH6SDUTJ"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Schuster, Wilhelm: Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V&#xF6;lker. Stuttgart 1909.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Schuster, 1909<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Die Hauskatze. Abstammungsgeschichte, Lebensweise und Charaktereigenschaften mit einem Blick auf ihre Verwandtschaft mit Wildkater, Falbkatze u. a. Ihre Beziehung zu Kunst, Dichtung, Philosophie, ihre Rolle im geistigen Leben der V\u00f6lker. \u2026",
+                    "scanId": "QDYHEHZP"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Smellie, William: Grundz&#xFC;ge einer Philosophie der Naturgeschichte zur be&#xDF;ern Erkenntni&#xDF; des Sch&#xF6;pfers und der Gesch&#xF6;pfe, insbesondere aber der Bestimmung und W&#xFC;rde des Menschen. Bern 1791. Internet: https://books.google.de/books?id=NoU-AAAAcAAJ&amp;pg=PR7&amp;d.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Smellie, 1791<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Grundz\u00fcge einer Philosophie der Naturgeschichte zur be\u00dfern Erkenntni\u00df des Sch\u00f6pfers und der Gesch\u00f6pfe, insbesondere aber der Bestimmung und W\u00fcrde des Menschen \u2026",
+                    "scanId": "PQS9UZRT"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Gontier, Thierry: De l&#x2019;homme &#xE0; l&#x2019;animal: Montaigne et Descartes ou les paradoxes de la philosophie moderne sur la nature des animaux. Paris 1998. Internet: https://books.google.de/books?id=PQZXlwxQxKYC&amp;printsec=frontcover&amp;dq=De+l%E2%80%99homme+%C3%A0+l%E2%80%99animal.+Paradoxes+sur+la+nature+des+animaux,+Montaigne+et+Descartes.&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiu8YjEwvvSAhVMchQKHfGtAHgQ6AEIHjAA#v=onepage&amp;q=De%20l%E2%80%99homme%20%C3%A0%20l%E2%80%99animal.%20Paradoxes%20sur%20la%20nature%20des%20animaux%2C%20Montaigne%20et%20Descartes.&amp;f=false.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Gontier, 1998<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026De lhomme \u00e0 lanimal: Montaigne et Descartes ou les paradoxes de la <mark>philofophie</mark> moderne sur la nature des animaux \u2026",
+                    "scanId": "P9GH6S35"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">De Fontenay, Elisabeth: Le silence des b&#xEA;tes. La philosophie &#xE0; l&#x2019;&#xE9;preuve de l&#x2019;animalit&#xE9;. Paris 1998. Internet: https://books.google.de/books?id=4ZZDOBHWIosC&amp;printsec=frontcover&amp;dq=Le+silence+des+b%C3%AAtes.+La+philosophie+%C3%A0+l%E2%80%99%C3%A9preuve+de+l%E2%80%99animalit%C3%A9.&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiA39_erfbSAhUHOhQKHd8XC1wQ6AEIHjAA#v=onepage&amp;q=Le%20silence%20des%20b%C3%AAtes.%20La%20philosophie%20%C3%A0%20l%E2%80%99%C3%A9preuve%20de%20l%E2%80%99animalit%C3%A9.&amp;f=false.</div>\n</div>",
+                    "copyright": true,
+                    "description": "De Fontenay, 1998<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Le silence des b\u00eates. La <mark>philofophie</mark> \u00e0 l\u00e9preuve de lanimalit \u2026",
+                    "scanId": "NR8G8JR4"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Smellie, William: William Smellie&#x2019;s Philosophie der Naturgeschichte. Zweiter Bd. Berlin 1791. Internet: https://opacplus.bsb-muenchen.de/search?id.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Smellie, 1791<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026William Smellies Philosophie der Naturgeschichte \u2026",
+                    "scanId": "NE8DALC7"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Smellie, William: Grundz&#xFC;ge einer Philosophie der Naturgeschichte: zur be&#xDF;ern Erkenntni&#xDF; des Sch&#xF6;pfers und der Gesch&#xF6;pfe insbesondere aber der Bestimmung und W&#xFC;rde des Menschen. Aus dem Englischen von Johann Gottlob Ernst Burkardt. Basel 1791.</div>\n</div>",
+                    "copyright": false,
+                    "description": "Smellie, 1791<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Grundz\u00fcge einer Philosophie der Naturgeschichte: zur be\u00dfern Erkenntni\u00df des Sch\u00f6pfers und der Gesch\u00f6pfe insbesondere aber der Bestimmung und W\u00fcrde des Menschen. Aus dem Englischen von Johann Gottlob Ernst Burkardt. \u2026",
+                    "scanId": "MTY3GW38"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Lemm, Vanessa/Sieverding, Nora: Nietzsches Philosophie des Tieres: Kultur, Politik und die Animalit&#xE4;t des Menschen. 1. Aufl. Z&#xFC;rich 2012.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Lemm, 2012<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Nietzsches Philosophie des Tieres: Kultur, Politik und die Animalit\u00e4t des Menschen \u2026",
+                    "scanId": "JGA9ABAN"
+                },
+                {
+                    "bibliography": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Lengauer, Erwin: Tom Regans Philosophie f&#xFC;r Tierrechte Subjekte des Lebens im Kontext von intrinsischen und inh&#xE4;renten Wertdiskursen. In: Tierethik transdisziplin&#xE4;r. Hrsg. v. Bj&#xF6;rn Hayer/ Klarissa Schr&#xF6;der. Bielefeld 2018. Internet: http://www.degruyter.com/view/books/9783839442593/9783839442593-004/9783839442593-004.xml. Zuletzt gepr&#xFC;ft am: 19.5.2020. S. 61&#x2013;76.</div>\n</div>",
+                    "copyright": true,
+                    "description": "Hayer, 2018<span style='color:orange;font-size:80%;margin-left:1rem;'>Book is not yet scanned, sorry for that.</span>",
+                    "hasocr": false,
+                    "preview": " \u2026Tom Regans Philosophie f\u00fcr Tierrechte Subjekte des Lebens im Kontext von intrinsischen und inh\u00e4renten Wertdiskursen \u2026",
+                    "scanId": "GTJY7EC2"
+                }
+            ],
+            "max_results": 18,
+            "time": 83844484
+        }
+    }
+]

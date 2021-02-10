@@ -1,0 +1,11 @@
+defaults:
+    url: "http://kava-i.de:4848/api/v2/search/pages?query={}&fuzzyness={}&scanId={}"
+    verb: "get"
+
+jobs:
+    - url_params: ["beziehung", 0, "UEHEJINT"]
+    - url_params: ["auszeichnete", 0, "UEHEJINT"]
+    - url_params: ["dieser", 1, "UEHEJINT"]
+    - url_params: ["himmelsstriche", 1, "UEHEJINT"]
+    - url_params: ["gewöhnte", 1, "UEHEJINT"]
+    - url_params: ["gewohnte", 1, "UEHEJINT"]

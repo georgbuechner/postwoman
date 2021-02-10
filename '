@@ -10,3 +10,8 @@ jobs:
     - url_params: ["hünd  "]
     - url_params: ["ändern  "]
     - url_params: ["ändern  +der"]
+    - url: "http://localhost:4848/api/v2/search?q={}"
+    - url: "http://localhost:4848/api/v2/search?{}"
+      verb: "get"
+
+

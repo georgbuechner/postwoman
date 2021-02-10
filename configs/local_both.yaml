@@ -1,0 +1,13 @@
+defaults:
+    url: "http://localhost:4848/api/v2/search/pages?query={}&fuzzyness={}&scanId={}"
+    verb: "get"
+
+jobs:
+    - url_params: ["beziehung", 0, "UEHEJINT"]
+    - url: "http://localhost:4848/api/v2/search?q=beziehung"
+      verb: "get"
+    - url_params: ["beziehung", 1, "UEHEJINT"]
+    - url: "http://localhost:4848/api/v2/search?q=beziehung"
+      verb: "get"
+
+

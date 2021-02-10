@@ -1,0 +1,10 @@
+defaults:
+    url: "http://localhost:4848/api/v2/search?q={}&fuzzyness=1"
+    verb: "get"
+
+jobs:
+    - url_params: ["Himmelsstriche"]
+    - url_params: ["hünd"]
+    - url_params: ["hundes"]
+    - url_params: ["handers"]
+    - url_params: ["philofophie"]

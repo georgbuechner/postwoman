@@ -5,9 +5,12 @@ def format(job, response):
     result = {"url":job["url"], "verb":job["verb"], 
         "body":job["body"], "resp_status":response.status_code}
     # Remove trace, if exists, as it's making file completely unreadable.
-    result["resp_body"] = response.json()
-    if "trace" in result["resp_body"]:
-        del result["resp_body"]["trace"]
+    try:
+        result["resp_body"] = response.json()
+        if "trace" in result["resp_body"]:
+            del result["resp_body"]["trace"]
+    except Exception as exc:
+        result["resp_body"] = ""
     return result
 
 # Writes a list of results to a specified output file.
